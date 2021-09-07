@@ -8,23 +8,12 @@ import android.view.View;
 import android.widget.VideoView;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.videolibrary.Model.Video;
 import com.example.videolibrary.R;
-import com.firebase.ui.database.FirebaseRecyclerOptions;
-import com.google.firebase.database.DatabaseReference;
 
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
-    RecyclerView recyclerView;
-    FirebaseRecyclerOptions<Video> options;
-    VideoAdapter adapter;
-
-    DatabaseReference dataRef;
-    Uri videoUri;
-    Video video;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
