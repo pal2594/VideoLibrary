@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7285243072",
+    "project_id": "videolibrary-b2003",
+    "storage_bucket": "videolibrary-b2003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7285243072:android:8428e300608c562ed84125",
+        "android_client_info": {
+          "package_name": "com.example.videolibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7285243072-ctktnonbirsv3msm2lu14np37nk13ppl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgpvsWf5Xq7bP24WXUkosiohX0aPdHRg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7285243072-ctktnonbirsv3msm2lu14np37nk13ppl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
