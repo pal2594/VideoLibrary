@@ -3,13 +3,13 @@
 <p> This app is used to stream videos. When clicked on video, the app will detect the face of person and play the video. </p>
 
 ## Technologies and Libraries
- <h3> Technologies
+ <h4> Technologies </h4>
  <ul>
  <li> Android Studio: 4.1.3
  <li> Android SDK API LEVEL: Android R 30
  <li> Language: Java
  </ul>
- <h3> Libraries
+ <h4> Libraries </h4>
  <ul>
  <li> Ml kit
  <li> cameraX
